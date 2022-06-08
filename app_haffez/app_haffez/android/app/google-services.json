@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "290033255785",
+    "project_id": "hafz-fd86b",
+    "storage_bucket": "hafz-fd86b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290033255785:android:662869ac313de6a28a29f8",
+        "android_client_info": {
+          "package_name": "com.example.haffez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290033255785-hihiq5cltj9qpgvcc4h3cu20eqv4evsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWaPny4p1QHVGPdttkrat4PmLq2KL4Hao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290033255785-hihiq5cltj9qpgvcc4h3cu20eqv4evsl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "290033255785-ls695gakenge75eceek8pia0pqsbbf7l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hafz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
